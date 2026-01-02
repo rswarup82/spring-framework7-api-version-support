@@ -2,7 +2,7 @@ Here’s a **polished and fine-tuned version** of your README.md with clearer la
 
 ---
 
-# spring-framework-api-version-support
+# spring-framework7-api-version-support
 
 This repository demonstrates the **API versioning capabilities introduced in Spring Framework 7.x.x and Spring Boot 4.x.x**.
 It showcases how multiple versions of the same REST API can coexist and be consumed using HTTP request headers.
@@ -30,7 +30,7 @@ It showcases how multiple versions of the same REST API can coexist and be consu
 1. Clone the repository from GitHub:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/rswarup82/spring-framework7-api-version-support)
    ```
 
 2. Navigate to the application directory:
