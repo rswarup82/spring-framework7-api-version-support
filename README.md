@@ -93,7 +93,7 @@ Sample response:
 {
   "id": "1000",
   "firstName": "John",
-  "lastName": "Done",
+  "lastName": "Doe",
   "emailAddr": null,
   "phoneNumber": null,
   "homeAddr": null
@@ -117,7 +117,7 @@ Sample response:
 {
   "id": "1000",
   "firstName": "John",
-  "lastName": "Done",
+  "lastName": "Doe",
   "emailAddr": "john.doe@ally.com",
   "phoneNumber": "657-101-8980",
   "homeAddr": null
