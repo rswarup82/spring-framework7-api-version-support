@@ -1,6 +1,3 @@
-Here’s a **polished and fine-tuned version** of your README.md with clearer language, better structure, and a more professional GitHub tone. You can copy-paste this directly into your repository.
-
----
 
 # spring-framework7-api-version-support
 
