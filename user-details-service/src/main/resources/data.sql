@@ -1,0 +1,3 @@
+INSERT INTO users (id, first_name, last_name, email_addr, phone_number) VALUES (1000, 'John', 'Doe', 'john.doe@ally.com', '657-101-8980');
+INSERT INTO users (id, first_name, last_name, email_addr, phone_number) VALUES (1001, 'Will', 'Smith', 'will.smith@ally.com', '657-101-8981');
+INSERT INTO users (id, first_name, last_name, email_addr, phone_number) VALUES (1002, 'Phil', 'Drake', 'phil.drake@ally.com', '657-101-8982');
